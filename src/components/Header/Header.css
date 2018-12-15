@@ -1,0 +1,11 @@
+.profile-image{
+    width: 4rem;
+}
+
+.profile-header{
+    text-align: center;
+}
+
+.line{
+    border: 1px solid lightsteelblue;
+}
